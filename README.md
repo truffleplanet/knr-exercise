@@ -1,2 +1,5 @@
 # knr-exercise
-# knr-exercise
+
+`-gcc -ansi <filename>`
+
+`./a.out`
